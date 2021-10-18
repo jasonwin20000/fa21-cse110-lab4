@@ -29,7 +29,9 @@
     E. false because true maps to 1 and 1 does not equal 2.
     F. true because the boolean object has a value of true
 15. == automatically converts the variable types to the same type for the comparison whereas === does not do any type conversion to the variables. 
+16. 
 17. The result will be a new array that contains [2, 4, 6] since the function will call doSomething for each element in array and doSomething returns the value * 2 and modifyArray takes that value and adds it to the new array that will be returned.
+18. 
 19. 1
     4
     3
