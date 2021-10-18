@@ -1,0 +1,2 @@
+1. The bug was that the numbers were being inputted as strings and adding them together was just concatenating the two strings together rather than adding their values.
+2. I would fix it by ensuring that the numbers are treated as integers so their values are actually added instead using the parseInt() function. 
